@@ -1,0 +1,3 @@
+function loginClick() {
+	alert("Login");
+}
