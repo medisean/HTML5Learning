@@ -2,3 +2,8 @@
 	float:left;
 	width: 80px;
 }
+
+.submitButton {
+	width: 50px;
+	height: 25px;
+}
